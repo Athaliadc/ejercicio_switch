@@ -1,0 +1,12 @@
+body{
+  display: flex;
+  justify-content: center;
+  font-family: monospace;
+  flex-direction: column;
+}
+
+.form{
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
