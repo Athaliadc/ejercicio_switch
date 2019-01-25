@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded',function (){
         saludo ="Bienvenida";
         break;
       default:
-        saludo = "Bienvenidx";
+        saludo = "Bienvenide";
     }
 
 
