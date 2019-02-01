@@ -23,6 +23,7 @@ document.addEventListener('DOMContentLoaded',function (){
 
     const mensajeTexto = document.querySelectorAll(".mensaje-texto")[0];
     mensajeTexto.innerHTML = `${saludo} ${nombre}`;
+    
   });
 
 });
